@@ -251,8 +251,8 @@ li{
 }
 @media only screen and (max-width: 1200px) {
     .page-video{
-        height: 40vh;
-        width: 50vw;
+        height: 20vh;
+        width: 80vw;
     }
     .profile-section-heading1{
         color: #959ead;
