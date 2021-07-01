@@ -249,7 +249,7 @@ li{
     height: 50vh;
     width: 100%;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1201px) {
     .page-video{
         height: 22vh;
         width: 100vh;
