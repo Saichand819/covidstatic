@@ -140,6 +140,9 @@
     width:100%;
     height: 100vh;
 }
+.tracker{
+    font-size: 24px;
+}
 .timeline-heading{
     font-family: monospace;
     margin-top: 10px;
@@ -308,5 +311,23 @@ li{
     }
     .latest-news{
         font-size: 42px;
+    }
+    .pop-head{
+        font-size: 42px;
+    }
+    .pop-body{
+        font-size: 37px;
+    }
+    .history-para{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 25px;
+    }
+    .tracker{
+        font-size: 34px;
+    }
+    .timeline-heading{
+        font-family: monospace;
+        margin-top: 20px;
+        font-size: 36px;
     }
   }
