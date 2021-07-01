@@ -516,5 +516,9 @@ li{
         color: #959ead;
         height: 22px;
     }
+    .button-position-phone{
+        margin-left: auto;
+        margin-right: auto;
+    }
 
 }
