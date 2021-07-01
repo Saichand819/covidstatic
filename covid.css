@@ -68,6 +68,10 @@
 .nav-bar-image{
     height: 60px;
 }
+.padd{
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
 .Statistics{
     font-family: serif;
     margin-top: 25px;
@@ -261,10 +265,48 @@ li{
         border-radius: 16px;
    }
    .news-heading{
-       font-size: 26px;
+       font-size: 30px;
    }
    .news-info{
-       font-size: 20px;
+       font-size: 24px;
        font-family: Arial, Helvetica, sans-serif;
    }
+   .worldometerlink{
+    color: black;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+   }
+   .Statistics{
+    font-family: serif;
+    margin-top: 25px;
+    font-size: 38px;
+    font-weight: bold;
+    }
+    .total{
+        color: #646a73;
+        font-size: 32px;
+        margin-right: 10px;
+    }
+    .cases{
+    font-size: 36px;
+    color: #829999;
+    font-weight: bold;
+    }
+    .deaths{
+        font-size: 36px;
+    color: #829999;
+    font-weight: bold;
+    }
+    .recover{
+        font-size: 36px;
+        color: #6fd166;
+        font-weight: bold;
+    }
+    .box{
+        margin-right: 10px;
+    }
+    .latest-news{
+        font-size: 42px;
+    }
   }
