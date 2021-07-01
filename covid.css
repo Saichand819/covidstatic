@@ -491,5 +491,30 @@ li{
         border-color: black;
         font-size: 29px;
     }
+    .profile-section-heading{
+        color: #959ead;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 34px;
+        text-align: center;
+    }
+    .profile-section-heading1{
+        color: #959ead;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 28px;
+        text-align: center;
+    }
+    .profile-section-para{
+        color: #959ead;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 22px;
+    
+    }
+    .mail-icon{
+        color: #959ead;
+        height: 22px;
+    }
 
-  }
+}
