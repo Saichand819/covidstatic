@@ -252,7 +252,7 @@ li{
 @media only screen and (max-width: 1200px) {
     .page-video{
         height: 20vh;
-        width: 80vw;
+        width: 100%;
     }
     .news1{
         background-color: #b87114;
