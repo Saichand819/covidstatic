@@ -272,16 +272,16 @@ li{
 }
 @media only screen and (max-width: 1200px) {
     .test-para{
-        font-size: 23px;
+        font-size: 29px;
     }
     .vaccine{
-        font-size: 36px;
+        font-size: 41px;
     }
     .vaccine-photo{
         height: 27vh;
     }
     .vaccine-head{
-        font-size: 42px;
+        font-size: 49px;
     }
     .page-video{
         height: 20vh;
@@ -295,41 +295,41 @@ li{
         border-radius: 16px;
    }
    .news-heading{
-       font-size: 30px;
+       font-size: 37px;
    }
    .news-info{
-       font-size: 24px;
+       font-size: 30px;
        font-family: Arial, Helvetica, sans-serif;
    }
    .worldometerlink{
     color: black;
     font-family: "Roboto";
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 500;
    }
    .Statistics{
     font-family: serif;
     margin-top: 25px;
-    font-size: 38px;
+    font-size: 45px;
     font-weight: bold;
     }
     .total{
         color: #646a73;
-        font-size: 32px;
+        font-size: 39px;
         margin-right: 10px;
     }
     .cases{
-    font-size: 36px;
+    font-size: 42px;
     color: #829999;
     font-weight: bold;
     }
     .deaths{
-        font-size: 36px;
+        font-size: 42px;
     color: #829999;
     font-weight: bold;
     }
     .recover{
-        font-size: 36px;
+        font-size: 42px;
         color: #6fd166;
         font-weight: bold;
     }
@@ -337,44 +337,44 @@ li{
         margin-right: 10px;
     }
     .latest-news{
-        font-size: 42px;
+        font-size: 49px;
     }
     .pop-head{
-        font-size: 42px;
+        font-size: 49px;
     }
     .pop-body{
-        font-size: 37px;
+        font-size: 44px;
     }
     .history-para{
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 25px;
+        font-size: 31px;
     }
     .tracker{
-        font-size: 34px;
+        font-size: 41px;
     }
     .timeline-heading{
         font-family: monospace;
         margin-top: 20px;
-        font-size: 36px;
+        font-size: 42px;
     }
     li{
         font-weight: 500;
-        font-size: 25px;
+        font-size: 32px;
     }
     .impact-heading{
         font-family: inherit;
         font-weight: 900;
-        font-size: 42px;
+        font-size: 49px;
         text-align: center;
     }
     .lockdown{
-       font-size: 27px;
+       font-size: 34px;
        font-weight: bold;
        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     }
     .lockdown-para{
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-size: 25px;
+        font-size: 32px;
     }
     .c-h{
        height: 50vh;
@@ -382,7 +382,7 @@ li{
     }
     .image-source{
         text-align: right;
-        font-size: 24px;
+        font-size: 31px;
         font-weight: lighter;
     }
     .lockdown-card{
@@ -393,25 +393,25 @@ li{
         padding: 14px;
     }
     .lockdown-para1{
-        font-size: 27px;
+        font-size: 35px;
         font-family: cursive;
     }
     .lockdown-heading{
-        font-size: 36px;
+        font-size: 43px;
         font-family: serif;
         font-weight: bold;
     }
     .info{
-        font-size: 34px;
+        font-size: 43px;
     }
     .test-head{
-        font-size: 34px;
+        font-size: 41px;
     }
     .variants{
         font-family: unset;
         font-weight: bold;
         text-align: center;
-        font-size: 40px;
+        font-size: 46px;
     }
     .search-bar{
         border-radius: 5px;
@@ -446,11 +446,11 @@ li{
     .question{
         color: #591515;
         font-weight: bold;
-        font-size: 26px;
+        font-size: 32px;
     }
     .answer{
         font-family:inherit;
-        font-size: 20px;
+        font-size: 26px;
     }
     #y{
         border-bottom-color:black ;
@@ -472,7 +472,7 @@ li{
         height: 80px;
     }
     .size{
-        font-size: 22px;
+        font-size: 29px;
     }
     .opening-page-heading{
        font-size: 10vw;   
@@ -495,26 +495,26 @@ li{
         color: #959ead;
         font-family: "Roboto";
         font-weight: bold;
-        font-size: 34px;
+        font-size: 38px;
         text-align: center;
     }
     .profile-section-heading1{
         color: #959ead;
         font-family: "Roboto";
         font-weight: bold;
-        font-size: 28px;
+        font-size: 32px;
         text-align: center;
     }
     .profile-section-para{
         color: #959ead;
         font-family: "Roboto";
         font-weight: bold;
-        font-size: 22px;
+        font-size: 27px;
     
     }
     .mail-icon{
         color: #959ead;
-        height: 22px;
+        height: 27px;
     }
     .button-position-phone{
         margin-left: auto;
